@@ -24,7 +24,7 @@ Websites - [IncognitoTGT](https://sudormrf.ml), [AnonymousFxz](https://anonymous
 
 Discord: `AnonymousFxz#0245`, `IncognitoTGT#0843`
 
-Email: [IncognitoTGT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](fali@sudormrf.ml)
+Email: [IncognitoTGT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](mailto:fali@sudormrf.ml)
 
 🍿 Fun facts
 
