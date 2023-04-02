@@ -26,10 +26,13 @@ Discord: `AnonymousFxz#0245`, `IncognitoTGT#0843`
 
 Email: [IncognitoTGT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](mailto:fali@sudormrf.ml)
 
+
+
 🍿 Fun facts
 
 ```md
 1. The name of this repo was AI generated
 2. IncognitoTGT's first code contribution was a Dockerfile
 3. We're using Codecademy Free to learn stuff
+4. For closed source (yes i know not for now) we aksully use Azure DevOps lol
 ```
