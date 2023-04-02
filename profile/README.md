@@ -1,12 +1,30 @@
 ## Hi there 👋
 
-LOL
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
+🙋‍♀️ A short introduction
+
+
+We're just 2 middle schoolers that (for now) know JS and make things. 
+
+
+
+🌈 Contribution guidelines
+
+Uhhhhh make a pr obviously????
+
+
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+Docs -  Either the wiki or sometimes the README in a repo
+Websites - [IncognitoTGT](https://sudormrf.ml), [AnonymousFxz](https://anonymousfxz.cf)
+
+
+
+🍿 Fun facts - what does your team eat for breakfast?
+
+```md
+1. The name of this repo was AI generated
+2. IncognitoTGT's first code contribution was a Dockerfile
+3. idk
+```
