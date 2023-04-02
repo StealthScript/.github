@@ -22,6 +22,7 @@ Docs -  Either the wiki or sometimes the README in a repo
 
 Websites - [IncognitoTGT](https://sudormrf.ml), [AnonymousFxz](https://anonymousfxz.cf)
 
+Discord: `AnonymousFxz#0245`, `IncognitoTGT#0843`
 
 
 🍿 Fun facts - what does your team eat for breakfast?
