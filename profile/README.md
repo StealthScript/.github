@@ -20,16 +20,16 @@ Also go follow ~~Roblox~~ [GitHub Community Guidelines](https://docs.github.com/
 
 Docs -  Either the wiki or sometimes the README in a repo
 
-Websites - [IncognitoTXT](https://sudormrf.ml), [AnonymousFxz](https://anonymousfxz.cf)
+Websites - [IncognitoTGT](https://sudormrf.ml), [AnonymousFxz](https://anonymousfxz.cf)
 
-Discord: `AnonymousFxz#0245`, `IncognitoTXT#0843`
+Discord: `AnonymousFxz#0245`, `IncognitoTGT#0843`
 
-Email: [IncognitoTXT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](mailto:fali@sudormrf.ml)
+Email: [IncognitoTGT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](mailto:fali@sudormrf.ml)
 
 🍿 Fun facts
 
 ```md
 1. The name of this repo was AI generated
-2. IncognitoTXT's first code contribution was a Dockerfile
+2. IncognitoTGT's first code contribution was a Dockerfile
 3. We're using Codecademy Free to learn stuff
 ```
