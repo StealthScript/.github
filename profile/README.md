@@ -16,7 +16,7 @@ Uhhhhh make a pr obviously????
 Also go follow ~~Roblox~~ [GitHub Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
 
 
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+👩‍💻 Useful resources
 
 Docs -  Either the wiki or sometimes the README in a repo
 
@@ -24,11 +24,12 @@ Websites - [IncognitoTGT](https://sudormrf.ml), [AnonymousFxz](https://anonymous
 
 Discord: `AnonymousFxz#0245`, `IncognitoTGT#0843`
 
+Email: [IncognitoTGT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](fali@sudormrf.ml)
 
-🍿 Fun facts - what does your team eat for breakfast?
+🍿 Fun facts
 
 ```md
 1. The name of this repo was AI generated
 2. IncognitoTGT's first code contribution was a Dockerfile
-3. idk
+3. We're using Codecademy Free to learn stuff
 ```
