@@ -22,7 +22,7 @@ Docs -  Either the wiki or sometimes the README in a repo
 
 Websites - [IncognitoTGT](https://sudormrf.ml), [AnonymousFxz](https://anonymousfxz.cf)
 
-Discord: `AnonymousFxz#0001`, `IncognitoTGT#7035`
+Discord: `AnonymousFxz#3377`, `IncognitoTGT#7035`
 
 Email: [IncognitoTGT](mailto:maiyaan@sudormrf.ml), [AnonymousFxz](mailto:fali@sudormrf.ml)
 
